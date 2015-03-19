@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FJU Audio Memos</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title"> ANDy影音備忘錄 </string>
+    <string name="帳號">帳號</string>
+    <string name="密碼">密碼</string>
+    <string name="確認密碼">確認密碼</string>
+    <string name="登入">登入</string>
+    <string name="退出">退出</string>
+    <string name="註冊">註冊</string>
+    <string name="試玩">試玩</string>
+    <string name="完成">完成</string>
+    <string name="從檔案">從檔案</string>
+    <string name="錄影去">錄影去</string>
+    <string name="列表">列表</string>
+    <string name="上傳">上傳</string>
+    <string name="日期">日期</string>
+    <string name="標題">標題</string>
+    <string name="你在想什麼">你在想什麼?</string>
+    <string name="上傳者">上傳者：</string>
+    <string name="顯示">顯示</string>
+    <string name="搜尋">搜尋</string>
+
+</resources>
